@@ -12,6 +12,11 @@
 [Installing a Development environment](https://hyperledger.github.io/composer/installing/development-tools.html)
 
 # Second lab
+Follow these instructions to launch a basic IBM Blockchain network on the IBM Container Service's free plan. 
+
+[Develop in a cloud sandbox](IBM Blockchain Platform(https://ibm-blockchain.github.io/)
+
+[Prepare and Setup](https://ibm-blockchain.github.io/setup/
 
 # Third lab
 
