@@ -1,6 +1,7 @@
 # ibmblockchain2018-jan
 
 # Introduction - concepts and products
+[Satoshi Nakamoto Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf)
 [Blockchain](https://developer.ibm.com/code/technologies/blockchain/)
 
 # Agenda
