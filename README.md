@@ -19,7 +19,9 @@ We propose a solution to the double-spending problem using a peer-to-peer networ
 
 # Hyperledger and IBM Blockchain
 
-[Blockchain](https://developer.ibm.com/code/technologies/blockchain/)
+[Hyperledger](http://hyperledger.org/) is an umbrella project of open source blockchains and related tools, started in December 2015 by the Linux Foundation, to support the collaborative development of blockchain-based distributed ledgers.
+
+[IBM Blockchain](https://developer.ibm.com/code/technologies/blockchain/)
 
 # Agenda
 
