@@ -17,6 +17,8 @@ We propose a solution to the double-spending problem using a peer-to-peer networ
 * Identity over anonymity
 * Selective endorsement (consensus) over proof of work
 
+# Hyperledger and IBM Blockchain
+
 [Blockchain](https://developer.ibm.com/code/technologies/blockchain/)
 
 # Agenda
