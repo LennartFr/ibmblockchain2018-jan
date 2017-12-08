@@ -16,7 +16,7 @@ is still required to prevent double-spending.
 We propose a solution to the double-spending problem using a peer-to-peer network.
 ~~~
 
-# BitCoin and Blockchain
+# Blockchain and BitCoin
 
 * Assets over cryptocurrency
 * Identity over anonymity
