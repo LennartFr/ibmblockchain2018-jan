@@ -5,6 +5,8 @@
 # Agenda
 
 # First lab
+[Build a Blockchain Network](https://developer.ibm.com/code/patterns/build-a-blockchain-network/)
+
 [Hyperledger Composer Playground in the Cloud](https://composer-playground.mybluemix.net/login)
 
 [Install Hyperledger Composer locally](https://hyperledger.github.io/composer/installing/using-playground-locally.html)
