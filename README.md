@@ -1,10 +1,7 @@
 # ibmblockchain2018-jan
 
 # Introduction - concepts and products
-[Satoshi Nakamoto Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf)
-[Blockchain](https://developer.ibm.com/code/technologies/blockchain/)
-
-# October 2008 It all started with Satoshi Nakamoto and his paper [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf) 
+## October 2008 It all started with Satoshi Nakamoto and his paper [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf) 
 which addressed a key problem in electronic commerce:
 ~~~
 A purely peer-to-peer version of electronic cash would allow online payments to be sent directly 
@@ -22,6 +19,7 @@ We propose a solution to the double-spending problem using a peer-to-peer networ
 * Identity over anonymity
 * Selective endorsement (consensus) over proof of work
 
+[Blockchain](https://developer.ibm.com/code/technologies/blockchain/)
 
 # Agenda
 
