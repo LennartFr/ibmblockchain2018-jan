@@ -1,6 +1,7 @@
 # ibmblockchain2018-jan
 
-# Introduction
+# Introduction - concepts and products
+[Blockchain](https://developer.ibm.com/code/technologies/blockchain/)
 
 # Agenda
 
