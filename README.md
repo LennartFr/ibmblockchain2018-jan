@@ -23,9 +23,16 @@ We propose a solution to the double-spending problem using a peer-to-peer networ
 
 [IBM Blockchain](https://developer.ibm.com/code/technologies/blockchain/)
 
+# IBM Blockchain Usecases
+[Blockchain usecases](https://www.ibm.com/blockchain/use-cases/)
+
+
 # Agenda
 
 # First lab
+[Hyperledger Composer Playground](https://composer-playground.mybluemix.net/login)
+
+
 [Build a Blockchain Network](https://developer.ibm.com/code/patterns/build-a-blockchain-network/)
 
 [Hyperledger Composer Playground in the Cloud](https://composer-playground.mybluemix.net/login)
