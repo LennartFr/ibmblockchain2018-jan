@@ -45,5 +45,4 @@
 }
 
 
-
 ## Transactions: TemperatureReading, ShipmentReceived, SetupDemo
