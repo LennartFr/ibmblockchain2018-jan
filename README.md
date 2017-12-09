@@ -23,9 +23,8 @@ We propose a solution to the double-spending problem using a peer-to-peer networ
 
 [IBM Blockchain](https://developer.ibm.com/code/technologies/blockchain/)
 
-# IBM Blockchain Usecases
+# Blockchain Usecases from IBM
 [Blockchain usecases](https://www.ibm.com/blockchain/use-cases/)
-
 
 # Agenda
 
