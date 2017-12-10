@@ -25,6 +25,8 @@ is still required to prevent double-spending.
 
 [Hyperledger](http://hyperledger.org/) is an umbrella project of open source blockchains and related tools, started in December 2015 by the Linux Foundation, to support the collaborative development of blockchain-based distributed ledgers.
 
+[Hyperledger Composer](https://hyperledger.github.io/composer/introduction/introduction.html)
+
 [Hyperledger on GitHub](https://github.com/hyperledger)
 
 [Hyperledger Documentation](https://hyperledger-fabric.readthedocs.io/en/release/)
