@@ -21,7 +21,7 @@ is still required to prevent double-spending.
 
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
-# Hyperledger and IBM Blockchain
+# Hyperledger, Blockchain and IBM Blockchain
 
 [Hyperledger](http://hyperledger.org/) is an umbrella project of open source blockchains and related tools, started in December 2015 by the Linux Foundation, to support the collaborative development of blockchain-based distributed ledgers.
 
