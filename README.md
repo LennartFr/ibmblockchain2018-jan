@@ -41,6 +41,8 @@ is still required to prevent double-spending.
 
 # Agenda
 
+[IBM Blockchain 101](20171110-Blockchain-at-South-Bay/blob/master/IBM Blockchain 101.md)
+
 # First lab
 [Hyperledger Composer Playground](https://composer-playground.mybluemix.net/login)
 
