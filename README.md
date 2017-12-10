@@ -34,6 +34,9 @@ is still required to prevent double-spending.
 [IBM Blockchain Platform](https://console.bluemix.net/docs/services/blockchain/index.html#ibm-blockchain-platform)
 
 # Blockchain Usecases from IBM
+
+<img src="https://www.ibm.com/blogs/internet-of-things/wp-content/uploads/2017/05/2-1.jpg">
+
 [Blockchain usecases](https://www.ibm.com/blockchain/use-cases/)
 
 # Agenda
