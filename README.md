@@ -21,7 +21,7 @@ is still required to prevent double-spending.
 
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
-# Hyperledger, Blockchain and IBM Blockchain
+# Hyperledger, Blockchain and IBM Blockchain Platform
 
 [Hyperledger](http://hyperledger.org/) is an umbrella project of open source blockchains and related tools, started in December 2015 by the Linux Foundation, to support the collaborative development of blockchain-based distributed ledgers.
 
@@ -29,8 +29,7 @@ is still required to prevent double-spending.
 
 [Hyperledger Documentation](https://hyperledger-fabric.readthedocs.io/en/release/)
 
-
-[IBM Blockchain](https://developer.ibm.com/code/technologies/blockchain/)
+[IBM Blockchain Platform](https://console.bluemix.net/docs/services/blockchain/index.html#ibm-blockchain-platform)
 
 # Blockchain Usecases from IBM
 [Blockchain usecases](https://www.ibm.com/blockchain/use-cases/)
