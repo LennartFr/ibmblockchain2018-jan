@@ -1,7 +1,7 @@
 # URL: https://ibm.biz/BlockchainNYC
 
 # Introduction - concepts and products
-## October 2008 it all started with Satoshi Nakamoto and his paper [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf) 
+## In October 2008 it all started with Satoshi Nakamoto and his paper [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf) 
 which addressed a key problem in electronic commerce:
 ~~~
 A purely peer-to-peer version of electronic cash would allow online payments to be sent directly 
