@@ -43,9 +43,8 @@ is still required to prevent double-spending.
 
 [IBM Blockchain 101](https://github.com/LennartFr/20171110-Blockchain-at-South-Bay/blob/master/IBM%20Blockchain%20101.md)
 
-# First lab
+# Hyperledger Composer
 [Hyperledger Composer Playground](https://composer-playground.mybluemix.net/login)
-
 
 [Build a Blockchain Network](https://developer.ibm.com/code/patterns/build-a-blockchain-network/)
 
@@ -62,6 +61,7 @@ Follow these instructions to launch a basic IBM Blockchain network on the IBM Co
 
 [Prepare and Setup](https://ibm-blockchain.github.io/setup/
 
-# Third lab
+# IBM Code Blockchain Journeys
+[Decentralized energy with Hyperledger Composer ](https://developer.ibm.com/code/patterns/decentralized-energy-hyperledger-composer/)
 
 # Where do we go from here?
