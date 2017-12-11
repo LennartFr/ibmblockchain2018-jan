@@ -43,7 +43,9 @@ is still required to prevent double-spending.
 
 [IBM Blockchain 101](https://github.com/LennartFr/20171110-Blockchain-at-South-Bay/blob/master/IBM%20Blockchain%20101.md)
 
-# Hyperledger Composer
+# Tools, products and re-usable samples
+
+## Hyperledger Composer
 [Hyperledger Composer Playground](https://composer-playground.mybluemix.net/login)
 
 [Build a Blockchain Network](https://developer.ibm.com/code/patterns/build-a-blockchain-network/)
@@ -53,9 +55,6 @@ is still required to prevent double-spending.
 [Install Hyperledger Composer locally](https://hyperledger.github.io/composer/installing/using-playground-locally.html)
 
 [Installing a Development environment](https://hyperledger.github.io/composer/installing/development-tools.html)
-
-# Second lab
-Follow these instructions to launch a basic IBM Blockchain network on the IBM Container Service's free plan. 
 
 [Develop in a cloud sandbox](IBM Blockchain Platform(https://ibm-blockchain.github.io/)
 
