@@ -66,6 +66,8 @@ docker run --name composer-playground --publish 8080:8080 hyperledger/composer-p
 
 [Creating, Exporting, and Importing Business Network Cards](https://hyperledger.github.io/composer/managing/id-cards-playground.html)
 
+[Developer Tutorial for creating a Hyperledger Composer solution](https://hyperledger.github.io/composer/tutorials/developer-tutorial.html
+
 
 # IBM Code Blockchain Journeys
 [Decentralized energy with Hyperledger Composer ](https://developer.ibm.com/code/patterns/decentralized-energy-hyperledger-composer/)
