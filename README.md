@@ -58,7 +58,9 @@ is still required to prevent double-spending.
 
 [Develop in a cloud sandbox](IBM Blockchain Platform(https://ibm-blockchain.github.io/)
 
-[Prepare and Setup](https://ibm-blockchain.github.io/setup/
+[Prepare and Setup](https://ibm-blockchain.github.io/setup/)
+
+[Run Playground on your computer using Docker](docker run --name composer-playground --publish 8080:8080 hyperledger/composer-playground)
 
 # IBM Code Blockchain Journeys
 [Decentralized energy with Hyperledger Composer ](https://developer.ibm.com/code/patterns/decentralized-energy-hyperledger-composer/)
