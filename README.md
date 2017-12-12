@@ -60,9 +60,11 @@ is still required to prevent double-spending.
 
 [Prepare and Setup](https://ibm-blockchain.github.io/setup/)
 
-[Run Playground on your computer using Docker](https://www.ibm.com/developerworks/cloud/library/cl-model-test-your-blockchain-network-with-hyperledger-composer-playground/index.html )
+# [Run Playground on your computer using Docker](https://www.ibm.com/developerworks/cloud/library/cl-model-test-your-blockchain-network-with-hyperledger-composer-playground/index.html )
 
 docker run --name composer-playground --publish 8080:8080 hyperledger/composer-playground
+[Creating, Exporting, and Importing Business Network Cards](https://hyperledger.github.io/composer/managing/id-cards-playground.html)
+
 
 # IBM Code Blockchain Journeys
 [Decentralized energy with Hyperledger Composer ](https://developer.ibm.com/code/patterns/decentralized-energy-hyperledger-composer/)
