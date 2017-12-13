@@ -60,6 +60,8 @@ is still required to prevent double-spending.
 
 [Prepare and Setup](https://ibm-blockchain.github.io/setup/)
 
+[Developer Tutorial for creating a Hyperledger Composer solution](https://hyperledger.github.io/composer/tutorials/developer-tutorial.html)
+
 # [Run Playground on your computer using Docker](https://www.ibm.com/developerworks/cloud/library/cl-model-test-your-blockchain-network-with-hyperledger-composer-playground/index.html )
 
 docker run --name composer-playground --publish 8080:8080 hyperledger/composer-playground
