@@ -78,6 +78,6 @@ docker run --name composer-playground --publish 8080:8080 hyperledger/composer-p
 # IBM Code Blockchain Journeys
 [Decentralized energy with Hyperledger Composer ](https://developer.ibm.com/code/patterns/decentralized-energy-hyperledger-composer/)
 
-[Build Blockchain Insurance Application(https://github.com/IBM/build-blockchain-insurance-app)
+[Build Blockchain Insurance Application](https://github.com/IBM/build-blockchain-insurance-app)
 
 # Where do we go from here?
