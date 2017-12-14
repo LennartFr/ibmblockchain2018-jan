@@ -39,6 +39,10 @@ is still required to prevent double-spending.
 
 [Blockchain usecases](https://www.ibm.com/blockchain/use-cases/)
 
+# Nodered and Hyperledger Composer
+
+[Integrate your Blockchain with anything using Hyperledger Composer and NodeRed](https://medium.com/@CazChurchUk/integrate-your-blockchain-with-anything-using-hyperledger-composer-and-nodered-4226676f7e54)
+
 # Agenda
 
 [IBM Blockchain 101](https://github.com/LennartFr/20171110-Blockchain-at-South-Bay/blob/master/IBM%20Blockchain%20101.md)
