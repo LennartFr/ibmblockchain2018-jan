@@ -60,7 +60,7 @@ is still required to prevent double-spending.
 
 [Installing a Development environment](https://hyperledger.github.io/composer/installing/development-tools.html)
 
-[Develop in a cloud sandbox](IBM Blockchain Platform(https://ibm-blockchain.github.io/)
+# [Develop in a cloud sandbox IBM Blockchain Platform](https://ibm-blockchain.github.io/)
 
 [Prepare and Setup](https://ibm-blockchain.github.io/setup/)
 
