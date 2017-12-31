@@ -1,6 +1,6 @@
 # URL: ibm.biz/ibmblchain_2018_q1
 
-<img src="https://farm5.staticflickr.com/4636/39411423981_b11b5ece63_z.jpg"b alt="blueband">
+<img src="https://farm5.staticflickr.com/4636/39411423981_b11b5ece63_z.jpg">
 
 # Introduction - concepts and products
 ## In October 2008 it all started with Satoshi Nakamoto and his paper [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf) 
