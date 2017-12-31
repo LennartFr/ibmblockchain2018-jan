@@ -1,4 +1,4 @@
-# URL: https://ibm.biz/BlockchainNYC
+# URL: ibm.biz/ibmblchain_2018_q1
 
 # Introduction - concepts and products
 ## In October 2008 it all started with Satoshi Nakamoto and his paper [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf) 
