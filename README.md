@@ -13,7 +13,7 @@ is still required to prevent double-spending.
 
 - We propose a solution to the double-spending problem using a peer-to-peer network.
 ~~~
-# [Bitcoin cryptography](https://en.bitcoin.it/wiki/How_bitcoin_works)
+# [Some background: Bitcoin cryptography](https://en.bitcoin.it/wiki/How_bitcoin_works)
 
 # Blockchain and BitCoin
 
