@@ -13,15 +13,15 @@ is still required to prevent double-spending.
 
 - We propose a solution to the double-spending problem using a peer-to-peer network.
 ~~~
-# [Some background: Bitcoin cryptography](https://en.bitcoin.it/wiki/How_bitcoin_works)
+<img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
-# Blockchain and BitCoin
+# [Some background:]
 
+1. How Bitcoin Works:](https://en.bitcoin.it/wiki/How_bitcoin_works)
+1. Blockchain and BitCoin
 * Assets over cryptocurrency
 * Identity over anonymity
 * Selective endorsement (consensus) over proof of work
-
-<img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
 # Hyperledger, Blockchain and IBM Blockchain Platform
 
