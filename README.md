@@ -19,7 +19,7 @@ is still required to prevent double-spending.
 
 # [Harvard Business Review 2017-1 Marco Iansiti and Karim R. Lakhani The Truth About Blockchain](https://hbr.org/2017/01/the-truth-about-blockchain)
 
-* [How the Bitcoin Blockchain works]
+# [How the Bitcoin Blockchain works]
 
 <img src="https://www.intelligenthq.com/wp-content/uploads/2015/05/how-the-bitcoin-block-chain-works-Infographic.jpg">
 
