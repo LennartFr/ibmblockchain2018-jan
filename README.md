@@ -17,13 +17,19 @@ is still required to prevent double-spending.
 
 # Some background:
 
+## Blockchain Usecases from IBM
+
+<img src="https://www.ibm.com/blogs/internet-of-things/wp-content/uploads/2017/05/2-1.jpg">
+
+[Blockchain usecases](https://www.ibm.com/blockchain/use-cases/)
+
 1. [How Bitcoin Works:](https://en.bitcoin.it/wiki/How_bitcoin_works)
 1. Blockchain and BitCoin
   * Assets over cryptocurrency
   * Identity over anonymity
   * Selective endorsement (consensus) over proof of work
 
-## Hyperledger, Blockchain and IBM Blockchain Platform
+## Hyperledger, Blockchain and the IBM Blockchain Platform
 
 [Hyperledger](http://hyperledger.org/) is an umbrella project of open source blockchains and related tools, started in December 2015 by the Linux Foundation, to support the collaborative development of blockchain-based distributed ledgers.
 
@@ -36,12 +42,6 @@ is still required to prevent double-spending.
 [Hyperledger Documentation](https://hyperledger-fabric.readthedocs.io/en/release/)
 
 [IBM Blockchain Platform](https://console.bluemix.net/docs/services/blockchain/index.html#ibm-blockchain-platform)
-
-# Blockchain Usecases from IBM
-
-<img src="https://www.ibm.com/blogs/internet-of-things/wp-content/uploads/2017/05/2-1.jpg">
-
-[Blockchain usecases](https://www.ibm.com/blockchain/use-cases/)
 
 # Nodered and Hyperledger Composer
 
