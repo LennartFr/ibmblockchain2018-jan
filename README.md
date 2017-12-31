@@ -29,6 +29,8 @@ is still required to prevent double-spending.
 
 [Hyperledger Composer](https://hyperledger.github.io/composer/introduction/introduction.html)
 
+[Hyperledger Fabric](https://hyperledger.org/projects/fabric)
+
 [Hyperledger on GitHub](https://github.com/hyperledger)
 
 [Hyperledger Documentation](https://hyperledger-fabric.readthedocs.io/en/release/)
