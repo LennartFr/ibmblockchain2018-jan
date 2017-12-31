@@ -17,13 +17,13 @@ is still required to prevent double-spending.
 
 # Some background:
 
-1. How Bitcoin Works:](https://en.bitcoin.it/wiki/How_bitcoin_works)
+1. [How Bitcoin Works:](https://en.bitcoin.it/wiki/How_bitcoin_works)
 1. Blockchain and BitCoin
-* Assets over cryptocurrency
-* Identity over anonymity
-* Selective endorsement (consensus) over proof of work
+  * Assets over cryptocurrency
+  * Identity over anonymity
+  * Selective endorsement (consensus) over proof of work
 
-# Hyperledger, Blockchain and IBM Blockchain Platform
+# 1. Hyperledger, Blockchain and IBM Blockchain Platform
 
 [Hyperledger](http://hyperledger.org/) is an umbrella project of open source blockchains and related tools, started in December 2015 by the Linux Foundation, to support the collaborative development of blockchain-based distributed ledgers.
 
