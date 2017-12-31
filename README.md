@@ -23,7 +23,7 @@ is still required to prevent double-spending.
   * Identity over anonymity
   * Selective endorsement (consensus) over proof of work
 
-# 1. Hyperledger, Blockchain and IBM Blockchain Platform
+## Hyperledger, Blockchain and IBM Blockchain Platform
 
 [Hyperledger](http://hyperledger.org/) is an umbrella project of open source blockchains and related tools, started in December 2015 by the Linux Foundation, to support the collaborative development of blockchain-based distributed ledgers.
 
