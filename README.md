@@ -16,6 +16,10 @@ is still required to prevent double-spending.
 - We propose a solution to the double-spending problem using a peer-to-peer network.
 ~~~
 
+# How the BitCoin Blockchain works
+
+https://www.intelligenthq.com/wp-content/uploads/2015/05/how-the-bitcoin-block-chain-works-Infographic.jpg
+
 # Blockchain and BitCoin
 
 * Assets over cryptocurrency
