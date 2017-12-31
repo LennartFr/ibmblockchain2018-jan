@@ -1,4 +1,4 @@
-# URL: https://ibm.biz/BlockchainNYC
+# URL: ibm.biz/ibmblchain_2018_q1
 
 # Introduction - concepts and products
 ## In October 2008 it all started with Satoshi Nakamoto and his paper [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf) 
@@ -48,12 +48,16 @@ is still required to prevent double-spending.
 
 [IBM Blockchain 101](https://github.com/LennartFr/20171110-Blockchain-at-South-Bay/blob/master/IBM%20Blockchain%20101.md)
 
-
+## Step 1
 1. ## [Building Your First Network](http://hyperledger-fabric.readthedocs.io/en/release/build_network.html)
 1. ## [Run Hyperledger Fabric on your laptop](http://hyperledger-fabric.readthedocs.io/en/release/write_first_app.html)
 1. ## [Chaincode for Developers](http://hyperledger-fabric.readthedocs.io/en/release/chaincode4ade.html)
 1. ## [Chaincode for Operators](http://hyperledger-fabric.readthedocs.io/en/release/chaincode4noah.html)
 
+
+## Step 2
+
+## Step 3  [Simple Install](https://ibm-blockchain.github.io/simple/)
 
 # Tools, products and re-usable samples
 
