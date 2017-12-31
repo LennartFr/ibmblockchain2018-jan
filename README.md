@@ -1,9 +1,6 @@
-# URL: ibm.biz/ibmblchain_2018_q1
+# URL: https://ibm.biz/BlockchainNYC
 
 # Introduction - concepts and products
-
-<img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
-
 ## In October 2008 it all started with Satoshi Nakamoto and his paper [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf) 
 which addressed a key problem in electronic commerce:
 ~~~
@@ -15,14 +12,7 @@ is still required to prevent double-spending.
 
 - We propose a solution to the double-spending problem using a peer-to-peer network.
 ~~~
-<img src="https://hbr.org/resources/images/article_assets/2016/11/R1701J_MOHAMED-1900x893.jpg">
-
-# [Harvard Business Review 2017-1 Marco Iansiti and Karim R. Lakhani The Truth About Blockchain](https://hbr.org/2017/01/the-truth-about-blockchain)
-
-# [How the Bitcoin Blockchain works]
-
-<img src="https://www.intelligenthq.com/wp-content/uploads/2015/05/how-the-bitcoin-block-chain-works-Infographic.jpg">
-
+# [Bitcoin cryptography](https://en.bitcoin.it/wiki/How_bitcoin_works)
 
 # Blockchain and BitCoin
 
