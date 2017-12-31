@@ -17,11 +17,11 @@ is still required to prevent double-spending.
 
 # Some background:
 
-## Blockchain Usecases from IBM
+## Blockchain Usecases
 
 <img src="https://www.ibm.com/blogs/internet-of-things/wp-content/uploads/2017/05/2-1.jpg">
 
-[Blockchain usecases](https://www.ibm.com/blockchain/use-cases/)
+[Blockchain usecases from IBM](https://www.ibm.com/blockchain/use-cases/)
 
 1. [How Bitcoin Works:](https://en.bitcoin.it/wiki/How_bitcoin_works)
 1. Blockchain and BitCoin
