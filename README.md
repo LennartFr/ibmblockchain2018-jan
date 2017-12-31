@@ -15,6 +15,7 @@ is still required to prevent double-spending.
 
 - We propose a solution to the double-spending problem using a peer-to-peer network.
 ~~~
+<img src="https://hbr.org/resources/images/article_assets/2016/11/R1701J_MOHAMED-1900x893.jpg">
 
 # [Harvard Business Review 2017-1 Marco Iansiti and Karim R. Lakhani The Truth About Blockchain](https://hbr.org/2017/01/the-truth-about-blockchain)
 
