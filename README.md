@@ -16,9 +16,9 @@ is still required to prevent double-spending.
 - We propose a solution to the double-spending problem using a peer-to-peer network.
 ~~~
 
-# How the BitCoin Blockchain works
+# [Harvard Business Review 2017-1 Marco Iansiti and Karim R. Lakhani The Truth About Blockchain](https://hbr.org/2017/01/the-truth-about-blockchain)
 
-[Harvard Business Review 2017-1 Marco Iansiti and Karim R. Lakhani The Truth About Blockchain](https://hbr.org/2017/01/the-truth-about-blockchain)
+* [How the Bitcoin Blockchain works]
 
 <img src="https://www.intelligenthq.com/wp-content/uploads/2015/05/how-the-bitcoin-block-chain-works-Infographic.jpg">
 
