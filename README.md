@@ -2,8 +2,7 @@
 
 <img src="https://hyperledger.org/wp-content/uploads/2016/09/logo_hl_new.png" width="12824" height="257">
 
-# Introduction - concepts and products
-## In October 2008 it all started with Satoshi Nakamoto and his paper [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf) 
+# In October 2008 it all started with Satoshi Nakamoto and his paper [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf) 
 which addressed a key problem in electronic commerce:
 ~~~
 - A purely peer-to-peer version of electronic cash would allow online payments to be sent directly 
